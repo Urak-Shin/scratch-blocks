@@ -1,7 +1,7 @@
-/gh-pages
-/closure-library
-/i18n/common.pyc
-/node_modules
-/npm-debug.log
+gh-pages/
+closure-library/
+i18n/common.pyc
+node_modules/
+npm-debug.log
 gh-pages/closure-library/.npmignore
 gh-pages/closure-library/.npmignore
